@@ -20,17 +20,10 @@ VidTube is a video sharing platform that seamlessly integrates with YouTube's va
 
 ## Screenshots
 
-<!-- ![VidTube](src/assets/ss1.png)
-![VidTube](src/assets/ss2.png)
-![VidTube](src/assets/ss3.png) -->
-<div style="display: flex;">
-  <div style="width: 80%;">
-    <img src="src/assets/ss1.png" alt="VidTube" />
-  </div>
-  <div style="width: 20%;">
-    <img src="src/assets/ss3.png" alt="VidTube" />
-  </div>
-</div>
+<div>
+    <img src="src/assets/ss1.png" alt="VidTube" width="710px" height="500px"/>
+    <img src="src/assets/ss3.png" alt="VidTube" width="295px" height="500px"/>
+<div>
 
 ![VidTube](src/assets/ss2.png)
 
