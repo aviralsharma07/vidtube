@@ -12,7 +12,6 @@ import { API_KEY, value_converter } from "../../data";
 import { Link } from "react-router-dom";
 
 const Recommended = ({ categoryId }) => {
-  console.log(categoryId);
   const [apiData, setApiData] = useState([]);
 
   const fetchRecommendedVideos = async () => {
